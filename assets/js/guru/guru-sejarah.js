@@ -219,7 +219,7 @@ export async function initSejarahModule() {
         renderSenaraiRPH(filtered);
     };
 
-    // ==========================================
+// ==========================================
     // FUNGSI JANA AI SECARA PUKAL (BARU)
     // ==========================================
     async function janaObjektifAIPukal() {
@@ -521,6 +521,9 @@ export async function initSejarahModule() {
         document.getElementById('modalEditPukal').style.display = 'flex';
     }
 
+// ==========================================
+    // FUNGSI HANTAR KEMASKINI KE SERVER (KEMASKINI)
+    // ==========================================
     async function hantarKemaskiniKeServer(senarai) {
         const user = JSON.parse(localStorage.getItem('eRPH_User'));
         const btnIndividu = document.getElementById('btnSimpanIndividu');
@@ -538,9 +541,48 @@ export async function initSejarahModule() {
                 })
             });
             const result = await response.json();
+            
             if (result.success) {
-                alert("Rekod berjaya dikemaskini!");
-                location.reload(); // Web akan refresh untuk muat turun data terbaru
+                alert("✅ Rekod berjaya dikemaskini!");
+
+                // ==========================================
+                // KOD BARU: KEMASKINI MEMORI LOKAL SUPAYA DATA TAK BERTINDIH
+                // ==========================================
+                if (typeof dataRPHGlobal !== 'undefined') {
+                    senarai.forEach(dataBaru => {
+                        let indeks = dataRPHGlobal.findIndex(r => r.idRPH === dataBaru.idRPH);
+                        if (indeks !== -1) {
+                            // Gabungkan memori lama dengan data yang baru dikemaskini
+                            dataRPHGlobal[indeks] = { ...dataRPHGlobal[indeks], ...dataBaru };
+                        }
+                    });
+                }
+                // ==========================================
+                
+                // 1. Tutup modal Pukal Refleksi
+                const modalPukal = document.getElementById('modalEditPukal');
+                if (modalPukal) modalPukal.style.display = 'none';
+                
+                // 2. Tutup modal Edit Individu
+                const modalIndividu = document.getElementById('modalEditIndividu');
+                if (modalIndividu) modalIndividu.style.display = 'none';
+
+                // 3. Tutup modal AI Pukal Progress
+                const modalAIPukal = document.getElementById('modalAIPukalProgress');
+                if (modalAIPukal) modalAIPukal.style.display = 'none';
+
+                // 4. Kemaskini jadual tanpa refresh web penuh
+                const btnSemak = document.getElementById('btnSemak'); 
+                if (btnSemak) {
+                    btnSemak.click(); 
+                } else {
+                    const carianMula = document.getElementById('carianMula');
+                    if (carianMula) carianMula.dispatchEvent(new Event('change'));
+                }
+                
+                if(btnIndividu) btnIndividu.disabled = false;
+                if(btnPukal) btnPukal.disabled = false;
+
             } else {
                 alert("Gagal mengemaskini: " + result.message);
             }
