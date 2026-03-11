@@ -1,0 +1,443 @@
+// assets/js/guru/guru-sejarah.js
+import { API_URL } from '../config.js';
+
+let dataRPHGlobal = []; // Menyimpan data asal supaya boleh ditapis berulang kali
+
+export async function initSejarahModule() {
+    const container = document.getElementById('guru-module-container');
+    const user = JSON.parse(localStorage.getItem('eRPH_User'));
+
+    // 1. Bina Antaramuka Asas & Modal
+    container.innerHTML = `
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+                <h3 style="margin:0;">📚 Senarai RPH Saya</h3>
+                <div>
+                    <button id="btnKemaskiniPukal" style="display:none; background:#8b5cf6; color:white; border:none; padding:8px 15px; border-radius:6px; cursor:pointer; font-weight:bold; margin-right:10px;">📝 Kemaskini Pukal</button>
+                    <button id="btnKembaliSejarah" style="background:#64748b; color:white; border:none; padding:8px 15px; border-radius:6px; cursor:pointer;">🔙 Kembali</button>
+                </div>
+            </div>
+            <p style="color:#64748b; margin-top:5px;">Berikut adalah rekod RPH yang telah dijana. Anda boleh menapis tarikh dan menanda kotak untuk kemaskini pukal.</p>
+            
+            <div style="background:#f1f5f9; padding:15px; border-radius:8px; margin-top:15px; margin-bottom:15px; border:1px solid #cbd5e1; display:flex; flex-wrap:wrap; gap:15px; align-items:flex-end;">
+                <div>
+                    <label style="display:block; font-size:12px; font-weight:bold; margin-bottom:5px; color:#334155;">Dari Tarikh:</label>
+                    <input type="date" id="tarikhMulaTapis" style="padding:8px; border:1px solid #94a3b8; border-radius:4px; outline:none;">
+                </div>
+                <div>
+                    <label style="display:block; font-size:12px; font-weight:bold; margin-bottom:5px; color:#334155;">Hingga Tarikh:</label>
+                    <input type="date" id="tarikhAkhirTapis" style="padding:8px; border:1px solid #94a3b8; border-radius:4px; outline:none;">
+                </div>
+                <div>
+                    <button id="btnTapisSenarai" style="background:#3b82f6; color:white; border:none; padding:9px 15px; border-radius:4px; cursor:pointer; font-weight:bold;">🔍 Cari</button>
+                    <button id="btnResetTapis" style="background:#ef4444; color:white; border:none; padding:9px 15px; border-radius:4px; cursor:pointer; font-weight:bold; margin-left:5px;">Reset</button>
+                </div>
+            </div>
+
+            <div style="margin-bottom:10px; display:none; align-items:center; background:#ecfdf5; padding:10px 15px; border-radius:6px; border:1px solid #a7f3d0;" id="ruangPilihSemua">
+                <input type="checkbox" id="chkPilihSemua" style="transform:scale(1.5); margin-right:15px; cursor:pointer;">
+                <label for="chkPilihSemua" style="font-weight:bold; color:#065f46; cursor:pointer;">Pilih Semua RPH Draf (Dalam Paparan)</label>
+            </div>
+
+            <div id="senarai-status" style="color:#4f46e5; font-weight:bold;">⏳ Memuat turun rekod dari pangkalan data...</div>
+            <div id="senarai-container"></div>
+        </div>
+        
+        <div id="modalRPH" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.6); z-index:999; justify-content:center; align-items:center;">
+            <div style="background:white; padding:25px; border-radius:10px; width:90%; max-width:600px; max-height:85vh; overflow-y:auto; position:relative; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+                <button id="closeModal" style="position:absolute; top:15px; right:15px; background:#ef4444; color:white; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; font-weight:bold;">✕ Tutup</button>
+                <div id="kandunganPenuhRPH"></div>
+            </div>
+        </div>
+
+        <div id="modalEditIndividu" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); z-index:1000; justify-content:center; align-items:center;">
+            <div style="background:white; padding:25px; border-radius:10px; width:90%; max-width:700px; max-height:90vh; overflow-y:auto; position:relative;">
+                <button id="closeModalEdit" style="position:absolute; top:15px; right:15px; background:#ef4444; color:white; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; font-weight:bold;">✕ Batal</button>
+                <h3 style="margin-top:0; border-bottom:2px solid #eee; padding-bottom:10px;">✏️ Kemaskini RPH & Refleksi</h3>
+                <div id="kandunganEditRPH"></div>
+            </div>
+        </div>
+
+        <div id="modalEditPukal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); z-index:1000; justify-content:center; align-items:center;">
+            <div style="background:#f8fafc; padding:25px; border-radius:10px; width:95%; max-width:800px; max-height:90vh; overflow-y:auto; position:relative;">
+                <button id="closeModalPukal" style="position:absolute; top:15px; right:15px; background:#ef4444; color:white; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; font-weight:bold;">✕ Batal</button>
+                <h3 style="margin-top:0; color:#1e293b;">📝 Kemaskini Refleksi Pukal</h3>
+                
+                <div style="background:#fff; padding:15px; border-radius:8px; border:1px solid #cbd5e1; margin-bottom:20px;">
+                    <strong style="color:#3b82f6;">⚡ Satu Untuk Semua (Pantas)</strong>
+                    <p style="font-size:13px; color:#64748b; margin:5px 0;">Taip refleksi di sini dan tekan butang untuk salin ke semua kelas di bawah.</p>
+                    <textarea id="teksPukalSama" rows="2" style="width:100%; padding:8px; border:1px solid #cbd5e1; border-radius:4px; margin-bottom:10px;"></textarea>
+                    <button id="btnGunaSemua" style="background:#3b82f6; color:white; border:none; padding:6px 12px; border-radius:4px; cursor:pointer; font-size:13px;">Salin ke Semua Kelas ↓</button>
+                </div>
+
+                <div id="senaraiBorangPukal"></div>
+                
+                <div style="margin-top:20px; text-align:right; border-top:2px solid #e2e8f0; padding-top:15px;">
+                    <button id="btnSimpanSemuaPukal" style="background:#10b981; color:white; border:none; padding:12px 20px; border-radius:6px; font-size:16px; font-weight:bold; cursor:pointer;">💾 Simpan Semua Refleksi</button>
+                </div>
+            </div>
+        </div>
+    `;
+
+    // 2. Tarik Data dari API
+    try {
+        const resp = await fetch(API_URL, {
+            method: 'POST',
+            body: JSON.stringify({ action: 'getSenaraiRPH', email: user.email })
+        });
+        const resData = await resp.json();
+
+        document.getElementById('senarai-status').style.display = 'none';
+
+        if (resData.success && resData.data.length > 0) {
+            dataRPHGlobal = resData.data; // Simpan ke pembolehubah global
+            renderSenaraiRPH(dataRPHGlobal); // Lukis senarai
+            document.getElementById('ruangPilihSemua').style.display = 'flex';
+        } else {
+            document.getElementById('senarai-container').innerHTML = "<p style='color:#64748b; font-style:italic;'>Belum ada sebarang RPH yang dijana dan disimpan.</p>";
+        }
+    } catch (error) {
+        console.error("Ralat Tarik Senarai:", error);
+        document.getElementById('senarai-status').innerText = "❌ Ralat menyambung ke pangkalan data.";
+    }
+
+    // 3. EVENT LISTENER PENAPIS & BUTANG UTAMA
+    document.getElementById('btnTapisSenarai').addEventListener('click', () => {
+        const dStart = document.getElementById('tarikhMulaTapis').value;
+        const dEnd = document.getElementById('tarikhAkhirTapis').value;
+        
+        if (!dStart && !dEnd) {
+            renderSenaraiRPH(dataRPHGlobal);
+            return;
+        }
+
+        const startObj = dStart ? new Date(dStart) : new Date('2000-01-01');
+        const endObj = dEnd ? new Date(dEnd) : new Date('2100-01-01');
+
+        // Tapis data
+        const dataDitapis = dataRPHGlobal.filter(rph => {
+            const rphDateObj = parseTarikh(rph.tarikh);
+            return rphDateObj >= startObj && rphDateObj <= endObj;
+        });
+
+        renderSenaraiRPH(dataDitapis);
+    });
+
+    document.getElementById('btnResetTapis').addEventListener('click', () => {
+        document.getElementById('tarikhMulaTapis').value = '';
+        document.getElementById('tarikhAkhirTapis').value = '';
+        renderSenaraiRPH(dataRPHGlobal);
+    });
+
+    document.getElementById('chkPilihSemua').addEventListener('change', (e) => {
+        const isChecked = e.target.checked;
+        const checkboxes = document.querySelectorAll('.chk-rph');
+        checkboxes.forEach(chk => { chk.checked = isChecked; });
+        semakButangPukal();
+    });
+
+    // FUNGSI BUTANG TUTUP/KEMBALI
+    document.getElementById('btnKembaliSejarah').addEventListener('click', () => {
+        document.getElementById('guru-module-container').style.display = 'none';
+        document.getElementById('guru-menu').style.display = 'grid'; 
+    });
+    document.getElementById('closeModal').addEventListener('click', () => { document.getElementById('modalRPH').style.display = 'none'; });
+    document.getElementById('closeModalEdit').addEventListener('click', () => { document.getElementById('modalEditIndividu').style.display = 'none'; });
+    document.getElementById('closeModalPukal').addEventListener('click', () => { document.getElementById('modalEditPukal').style.display = 'none'; });
+    document.getElementById('btnKemaskiniPukal').addEventListener('click', bukaModalPukal);
+}
+
+// ==========================================================
+// FUNGSI LUKIS SENARAI (Render List)
+// ==========================================================
+function renderSenaraiRPH(senarai) {
+    const senaraiContainer = document.getElementById('senarai-container');
+    document.getElementById('chkPilihSemua').checked = false; // Reset master checkbox
+    semakButangPukal(); // Reset butang pukal
+
+    if (senarai.length === 0) {
+        senaraiContainer.innerHTML = "<p style='color:#ef4444; font-style:italic;'>Tiada RPH ditemui untuk carian/tapis ini.</p>";
+        return;
+    }
+
+    let html = '';
+    senarai.forEach((rph, index) => {
+        const safeRPH = encodeURIComponent(JSON.stringify(rph)).replace(/'/g, "%27"); 
+        
+        const isDraf = rph.status === "Draf";
+        const checkHTML = isDraf ? `<input type="checkbox" class="chk-rph" value='${safeRPH}' style="transform:scale(1.5); margin-right:15px; cursor:pointer;">` : '';
+        const editBtnHTML = isDraf ? `<button class="btn-edit" data-rph='${safeRPH}' style="background:#f59e0b; color:white; border:none; padding:6px 12px; border-radius:6px; cursor:pointer; font-size:13px; font-weight:bold; margin-right:5px;">✏️ Edit</button>` : '';
+
+        html += `
+            <div style="border: 1px solid #e2e8f0; border-left: 5px solid ${isDraf ? '#f59e0b' : '#10b981'}; padding: 15px; border-radius: 8px; margin-bottom: 15px; background:#f8fafc; display:flex; align-items:center;">
+                ${checkHTML}
+                <div style="flex-grow:1; display:flex; justify-content:space-between; align-items:center;">
+                    <div>
+                        <strong style="font-size:15px;">${rph.tarikh || '-'} (${rph.hari || '-'})</strong><br>
+                        <span style="font-size:13px; color:#64748b;">${rph.masa || '-'} | ${rph.kelas || '-'} | ${rph.subjek || '-'}</span><br>
+                        <span style="font-size:14px; font-weight:bold; color:#1e293b; margin-top:5px; display:inline-block;">${rph.tajuk || '-'}</span>
+                    </div>
+                    <div style="text-align:right;">
+                        <span style="background:${isDraf ? '#fef3c7' : '#dcfce3'}; color:${isDraf ? '#d97706' : '#166534'}; padding:4px 8px; border-radius:6px; font-size:11px; margin-right:10px; font-weight:bold;">${rph.status || 'Draf'}</span>
+                        ${editBtnHTML}
+                        <button class="btn-lihat-penuh" data-rph='${safeRPH}' style="background:#10b981; color:white; border:none; padding:6px 12px; border-radius:6px; cursor:pointer; font-size:13px; font-weight:bold;">Papar</button>
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+    
+    senaraiContainer.innerHTML = html;
+
+    // Pasang Event Listener pada butang & checkbox yang baru dilukis
+    document.querySelectorAll('.chk-rph').forEach(chk => {
+        chk.addEventListener('change', semakButangPukal);
+    });
+
+    document.querySelectorAll('.btn-lihat-penuh').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            const data = JSON.parse(decodeURIComponent(e.target.getAttribute('data-rph')));
+            paparModal(data); 
+        });
+    });
+
+    document.querySelectorAll('.btn-edit').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            const data = JSON.parse(decodeURIComponent(e.target.getAttribute('data-rph')));
+            bukaModalEditIndividu(data); 
+        });
+    });
+}
+
+// Fungsi bantu semak butang pukal
+function semakButangPukal() {
+    const adaChecked = document.querySelectorAll('.chk-rph:checked').length > 0;
+    document.getElementById('btnKemaskiniPukal').style.display = adaChecked ? 'inline-block' : 'none';
+}
+
+// Fungsi bantu baca format tarikh (YYYY-MM-DD atau DD.MM.YYYY)
+function parseTarikh(dateStr) {
+    if (!dateStr) return new Date(0);
+    if (dateStr.includes('.')) { // Jika format DD.MM.YYYY
+        const parts = dateStr.split('.');
+        return new Date(`${parts[2]}-${parts[1]}-${parts[0]}`);
+    }
+    return new Date(dateStr); // Jika format YYYY-MM-DD
+}
+
+// ==========================================================
+// FUNGSI JANA TEMPLAT REFLEKSI (BM / BI)
+// ==========================================================
+function getTemplatRefleksi(subjek, refleksiSediaAda) {
+    if (refleksiSediaAda && refleksiSediaAda.trim() !== "") return refleksiSediaAda;
+    
+    const sub = (subjek || "").toLowerCase();
+    if (sub.includes("inggeris") || sub.includes("english")) {
+        return "____ out of ____ pupils achieved the learning objectives.\n____ pupils need extra guidance.\nAction: ________________________________";
+    } else {
+        return "____ daripada ____ orang murid berjaya mencapai objektif pembelajaran.\n____ orang murid memerlukan bimbingan.\nTindakan susulan: ________________________________";
+    }
+}
+
+// ==========================================================
+// FUNGSI KEMASKINI INDIVIDU & PUKAL
+// ==========================================================
+function bukaModalEditIndividu(rph) {
+    const modal = document.getElementById('modalEditIndividu');
+    const kandungan = document.getElementById('kandunganEditRPH');
+    
+    let objText = Array.isArray(rph.objektif) ? rph.objektif.join('\n') : (rph.objektif || '');
+    let actText = "";
+    if (Array.isArray(rph.aktiviti)) {
+        actText = rph.aktiviti.map(a => typeof a === 'object' ? `${a.fase || ''}: ${a.text || ''}` : a).join('\n');
+    } else {
+        actText = rph.aktiviti || '';
+    }
+
+    const templatRefleksi = getTemplatRefleksi(rph.subjek, rph.refleksi);
+
+    kandungan.innerHTML = `
+        <div style="font-size:14px; color:#64748b; margin-bottom:15px;">
+            ${rph.tarikh} | ${rph.kelas} | ${rph.subjek}
+        </div>
+        
+        <label style="display:block; font-weight:bold; margin-top:10px;">Tajuk:</label>
+        <input type="text" id="editTajuk" value="${rph.tajuk || ''}" style="width:100%; padding:8px; border:1px solid #cbd5e1; border-radius:4px; margin-bottom:10px;">
+
+        <label style="display:block; font-weight:bold; margin-top:10px;">Objektif Pembelajaran:</label>
+        <textarea id="editObjektif" rows="4" style="width:100%; padding:8px; border:1px solid #cbd5e1; border-radius:4px; margin-bottom:10px;">${objText}</textarea>
+
+        <label style="display:block; font-weight:bold; margin-top:10px;">Aktiviti PdP:</label>
+        <textarea id="editAktiviti" rows="5" style="width:100%; padding:8px; border:1px solid #cbd5e1; border-radius:4px; margin-bottom:10px;">${actText}</textarea>
+
+        <label style="display:block; font-weight:bold; margin-top:10px; color:#3b82f6;">💡 Refleksi (Kemaskini Pencapaian):</label>
+        <textarea id="editRefleksi" rows="4" style="width:100%; padding:8px; border:2px solid #3b82f6; border-radius:4px; background:#f0f9ff; margin-bottom:20px;">${templatRefleksi}</textarea>
+
+        <div style="text-align:right;">
+            <button id="btnSimpanIndividu" style="background:#10b981; color:white; border:none; padding:10px 20px; border-radius:6px; font-weight:bold; cursor:pointer;">💾 Simpan Perubahan</button>
+        </div>
+    `;
+
+    modal.style.display = 'flex';
+
+    document.getElementById('btnSimpanIndividu').addEventListener('click', async function() {
+        const btn = this;
+        btn.innerText = "⏳ Menyimpan...";
+        btn.disabled = true;
+
+        const objBaru = document.getElementById('editObjektif').value.split('\n').filter(x => x.trim() !== '');
+        const actBaru = document.getElementById('editAktiviti').value.split('\n').filter(x => x.trim() !== '');
+        
+        rph.tajuk = document.getElementById('editTajuk').value;
+        rph.objektif = objBaru;
+        rph.aktiviti = actBaru;
+        rph.refleksi = document.getElementById('editRefleksi').value;
+
+        await hantarKemaskiniRPH([rph], btn, modal);
+    });
+}
+
+function bukaModalPukal() {
+    const checkboxes = document.querySelectorAll('.chk-rph:checked');
+    if (checkboxes.length === 0) return;
+
+    const modal = document.getElementById('modalEditPukal');
+    const senaraiBorang = document.getElementById('senaraiBorangPukal');
+    let senaraiRPHPilih = [];
+    let htmlBorang = "";
+
+    checkboxes.forEach((chk, index) => {
+        const rph = JSON.parse(decodeURIComponent(chk.value));
+        senaraiRPHPilih.push(rph);
+        const templat = getTemplatRefleksi(rph.subjek, rph.refleksi);
+
+        htmlBorang += `
+            <div style="background:white; padding:15px; border-radius:8px; border:1px solid #cbd5e1; margin-bottom:15px; box-shadow:0 1px 3px rgba(0,0,0,0.05);">
+                <div style="font-weight:bold; color:#1e293b; margin-bottom:5px;">${rph.kelas} - ${rph.subjek} <span style="font-weight:normal; font-size:12px; color:#64748b;">(${rph.tarikh})</span></div>
+                <div style="font-size:12px; color:#64748b; margin-bottom:10px;">${rph.tajuk || '-'}</div>
+                <textarea class="teks-refleksi-pukal" data-index="${index}" rows="3" style="width:100%; padding:8px; border:1px solid #94a3b8; border-radius:4px; background:#f8fafc;">${templat}</textarea>
+            </div>
+        `;
+    });
+
+    senaraiBorang.innerHTML = htmlBorang;
+    modal.style.display = 'flex';
+
+    document.getElementById('btnGunaSemua').onclick = () => {
+        const teksSama = document.getElementById('teksPukalSama').value;
+        if (teksSama.trim() === "") return;
+        document.querySelectorAll('.teks-refleksi-pukal').forEach(ta => ta.value = teksSama);
+    };
+
+    document.getElementById('btnSimpanSemuaPukal').onclick = async function() {
+        const btn = this;
+        btn.innerText = "⏳ Sedang Menyimpan...";
+        btn.disabled = true;
+
+        document.querySelectorAll('.teks-refleksi-pukal').forEach(ta => {
+            const idx = ta.getAttribute('data-index');
+            senaraiRPHPilih[idx].refleksi = ta.value;
+        });
+
+        await hantarKemaskiniRPH(senaraiRPHPilih, btn, modal);
+    };
+}
+
+// ==========================================================
+// FUNGSI API KEMASKINI KE GOOGLE SHEETS
+// ==========================================================
+async function hantarKemaskiniRPH(senaraiRPH, btnElement, modalElement) {
+    const user = JSON.parse(localStorage.getItem('eRPH_User'));
+    
+    try {
+        const resp = await fetch(API_URL, {
+            method: 'POST',
+            body: JSON.stringify({
+                action: 'kemaskiniRPH',
+                emailGuru: user.email,
+                dataUpdate: senaraiRPH
+            })
+        });
+        
+        const resData = await resp.json();
+        
+        if (resData.success) {
+            alert("✅ Berjaya dikemaskini!");
+            modalElement.style.display = 'none';
+            initSejarahModule(); // Refresh automatik
+        } else {
+            alert("Ralat: " + resData.message);
+            btnElement.innerText = "Cuba Lagi";
+            btnElement.disabled = false;
+        }
+    } catch (error) {
+        alert("Gagal menyambung ke pelayan.");
+        btnElement.innerText = "Cuba Lagi";
+        btnElement.disabled = false;
+    }
+}
+
+// ==========================================================
+// FUNGSI PAPAR MODAL LENGKAP
+// ==========================================================
+function paparModal(rph) {
+    const modal = document.getElementById('modalRPH');
+    const kandungan = document.getElementById('kandunganPenuhRPH');
+    
+    const formatSenarai = (data) => {
+        if (!data || data.length === 0) return '-';
+        if (Array.isArray(data)) return '<ul style="margin:0; padding-left:20px;">' + data.map(item => `<li style="margin-bottom:4px;">${item}</li>`).join('') + '</ul>';
+        return data; 
+    };
+
+    const formatAktiviti = (data) => {
+        if (!data || data.length === 0) return '-';
+        if (Array.isArray(data)) {
+            return '<ul style="margin:0; padding-left:20px;">' + data.map(item => {
+                if (typeof item === 'object' && item !== null) return `<li style="margin-bottom:6px;"><strong>${item.fase || ''}:</strong> ${item.text || ''}</li>`;
+                return `<li style="margin-bottom:6px;">${item}</li>`;
+            }).join('') + '</ul>';
+        }
+        return data;
+    };
+
+    kandungan.innerHTML = `
+        <h2 style="margin-top:0; color:#1e293b; margin-bottom:5px;">Rancangan Pengajaran Harian</h2>
+        <span style="background:#fef3c7; color:#d97706; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:bold;">Status: ${rph.status || 'Draf'}</span>
+        <hr style="margin: 15px 0; border:0; border-top:1px solid #e2e8f0;">
+
+        <div style="border-bottom:2px dashed #cbd5e1; padding-bottom:15px; margin-bottom:15px;">
+            <h3 style="margin:0 0 5px 0; color:#1e293b; font-size:18px;">${rph.subjek || '-'} - ${rph.kelas || '-'}</h3>
+            <div style="font-size:14px; color:#64748b;">📅 ${rph.tarikh || '-'} (${rph.hari || '-'}) | ⏰ ${rph.masa || '-'}</div>
+        </div>
+
+        <table style="width:100%; font-size:14px; margin-bottom:20px; line-height:1.6;">
+            <tr><td width="25%" valign="top"><strong>Tajuk</strong></td><td valign="top">: ${rph.tajuk || '-'}</td></tr>
+            <tr><td valign="top"><strong>Kemahiran</strong></td><td valign="top">: ${rph.kemahiran || '-'}</td></tr>
+            <tr><td valign="top"><strong>Standard Kandungan</strong></td><td valign="top">: <div style="margin-top:-20px; margin-left:10px;">${formatSenarai(rph.sk)}</div></td></tr>
+            <tr><td valign="top"><strong>Standard Pembelajaran</strong></td><td valign="top">: <div style="margin-top:-20px; margin-left:10px;">${formatSenarai(rph.sp)}</div></td></tr>
+        </table>
+
+        <div style="background:#f1f5f9; border-left:4px solid #3b82f6; padding:15px; border-radius:0 6px 6px 0; margin-bottom:15px;">
+            <strong style="color:#1e293b; font-size:14px;">🎯 Objektif Pembelajaran:</strong>
+            <div style="font-size:14px; margin-top:8px; color:#334155;">${formatSenarai(rph.objektif)}</div>
+        </div>
+
+        <div style="background:#f8fafc; border-left:4px solid #f59e0b; padding:15px; border-radius:0 6px 6px 0; margin-bottom:15px;">
+            <strong style="color:#1e293b; font-size:14px;">📝 Aktiviti PdP:</strong>
+            <div style="font-size:14px; margin-top:8px; color:#334155;">${formatAktiviti(rph.aktiviti)}</div>
+        </div>
+
+        <table style="width:100%; font-size:14px; margin-bottom:20px; line-height:1.6; background:#fffbeb; padding:10px; border-radius:8px;">
+            <tr><td width="25%" valign="top"><strong>BBM</strong></td><td valign="top">: <div style="margin-top:-20px; margin-left:10px;">${formatSenarai(rph.bbm)}</div></td></tr>
+            <tr><td valign="top"><strong>Nilai Murni</strong></td><td valign="top">: <div style="margin-top:-20px; margin-left:10px;">${formatSenarai(rph.nilai)}</div></td></tr>
+        </table>
+
+        <div style="background:#ecfdf5; border-left:4px solid #10b981; padding:15px; border-radius:0 6px 6px 0; margin-bottom:15px;">
+            <strong style="color:#1e293b; font-size:14px;">💡 Refleksi:</strong>
+            <div style="font-size:14px; margin-top:8px; color:#065f46; white-space:pre-wrap;">${rph.refleksi || 'Belum diisi.'}</div>
+        </div>
+    `;
+    
+    modal.style.display = 'flex';
+}

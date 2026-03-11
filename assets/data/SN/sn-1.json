@@ -1,0 +1,2458 @@
+[
+  {
+    "minggu": "MINGGU 1",
+    "tarikh": "12.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Gambar",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Kerajinan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 2",
+    "tarikh": "19.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Video/Audio",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Hormat-menghormati",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 3",
+    "tarikh": "26.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "LCD Projektor",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Keberanian",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 4",
+    "tarikh": "02.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Perkataan",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kasih Sayang",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 5",
+    "tarikh": "09.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Video/Audio",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kebersihan",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 6",
+    "tarikh": "16.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Gambar",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kerajinan",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 7",
+    "tarikh": "23.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "LCD Projektor",
+        "Video/Audio",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Kasih Sayang",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 8",
+    "tarikh": "02.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "2. SCIENCE ROOM RULES",
+      "sk": [
+        "2.1 Science room rules"
+      ],
+      "sp": [
+        "2.1.1 Adhere to science room rules"
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Adhere to science room rules dengan betul.",
+        "Pada akhir PdP, murid dapat Adhere to science room rules dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Video/Audio",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kebersihan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 9",
+    "tarikh": "09.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "3. LIVING THINGS AND NON-LIVING THINGS",
+      "sk": [
+        "3.1 Living things and non-living things"
+      ],
+      "sp": [
+        "3.1.1. Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce.",
+        "3.1.2. Arrange in sequence the examples of living things based on their sizes",
+        "3.2.1 State the basic needs of living things i.e. food, water and air.",
+        "3.2.2 Describe human, animals and plants need food, water and air in different ways.",
+        "3.2.3. Describe human and animals also need shelters.",
+        "3.2.4. Provide reasoning on the importance of food, water, air and shelter to human and animals."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "LCD Projektor",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kebersihan",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 10",
+    "tarikh": "16.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. LIVING THINGS AND NON-LIVING THINGS",
+      "sk": [
+        "3.1 Living things and non-living things"
+      ],
+      "sp": [
+        "3.1.1. Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce.",
+        "3.1.2. Arrange in sequence the examples of living things based on their sizes",
+        "3.2.1 State the basic needs of living things i.e. food, water and air.",
+        "3.2.2 Describe human, animals and plants need food, water and air in different ways.",
+        "3.2.3. Describe human and animals also need shelters.",
+        "3.2.4. Provide reasoning on the importance of food, water, air and shelter to human and animals."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Video/Audio",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 11",
+    "tarikh": "30.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. LIVING THINGS AND NON-LIVING THINGS",
+      "sk": [
+        "3.1 Living things and non-living things"
+      ],
+      "sp": [
+        "3.1.1. Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce.",
+        "3.1.2. Arrange in sequence the examples of living things based on their sizes",
+        "3.2.1 State the basic needs of living things i.e. food, water and air.",
+        "3.2.2 Describe human, animals and plants need food, water and air in different ways.",
+        "3.2.3. Describe human and animals also need shelters.",
+        "3.2.4. Provide reasoning on the importance of food, water, air and shelter to human and animals."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Buku Teks",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 12",
+    "tarikh": "06.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. LIVING THINGS AND NON-LIVING THINGS",
+      "sk": [
+        "3.1 Living things and non-living things"
+      ],
+      "sp": [
+        "3.1.1. Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce.",
+        "3.1.2. Arrange in sequence the examples of living things based on their sizes",
+        "3.2.1 State the basic needs of living things i.e. food, water and air.",
+        "3.2.2 Describe human, animals and plants need food, water and air in different ways.",
+        "3.2.3. Describe human and animals also need shelters.",
+        "3.2.4. Provide reasoning on the importance of food, water, air and shelter to human and animals."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "LCD Projektor",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kerajinan",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 13",
+    "tarikh": "13.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. LIVING THINGS AND NON-LIVING THINGS",
+      "sk": [
+        "3.1 Living things and non-living things"
+      ],
+      "sp": [
+        "3.1.1. Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce.",
+        "3.1.2. Arrange in sequence the examples of living things based on their sizes",
+        "3.2.1 State the basic needs of living things i.e. food, water and air.",
+        "3.2.2 Describe human, animals and plants need food, water and air in different ways.",
+        "3.2.3. Describe human and animals also need shelters.",
+        "3.2.4. Provide reasoning on the importance of food, water, air and shelter to human and animals."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Tolong-menolong",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 14",
+    "tarikh": "20.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. LIVING THINGS AND NON-LIVING THINGS",
+      "sk": [
+        "3.1 Living things and non-living things"
+      ],
+      "sp": [
+        "3.1.1. Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce.",
+        "3.1.2. Arrange in sequence the examples of living things based on their sizes",
+        "3.2.1 State the basic needs of living things i.e. food, water and air.",
+        "3.2.2 Describe human, animals and plants need food, water and air in different ways.",
+        "3.2.3. Describe human and animals also need shelters.",
+        "3.2.4. Provide reasoning on the importance of food, water, air and shelter to human and animals."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast living things and non-living things based on the following characteristics: (i) breathe; (ii) need food and water; (iii) move; (iv) grow; (v) reproduce. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Buku Teks",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 15",
+    "tarikh": "27.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4. HUMAN",
+      "sk": [
+        "4.1. Human senses"
+      ],
+      "sp": [
+        "4.1.2. Identify parts of human body which related to senses.",
+        "4.1.2. Classify the objects according to identified characteristic.",
+        "4.1.3. Use senses to identify objects through investigation.",
+        "4.1.4. Explain with examples, use other senses if one of the senses is not functioning."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Video/Audio",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Tolong-menolong",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 16",
+    "tarikh": "04.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4. HUMAN",
+      "sk": [
+        "4.1. Human senses"
+      ],
+      "sp": [
+        "4.1.2. Identify parts of human body which related to senses.",
+        "4.1.2. Classify the objects according to identified characteristic.",
+        "4.1.3. Use senses to identify objects through investigation.",
+        "4.1.4. Explain with examples, use other senses if one of the senses is not functioning."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Buku Teks",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Tolong-menolong",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 17",
+    "tarikh": "11.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4. HUMAN",
+      "sk": [
+        "4.1. Human senses"
+      ],
+      "sp": [
+        "4.1.2. Identify parts of human body which related to senses.",
+        "4.1.2. Classify the objects according to identified characteristic.",
+        "4.1.3. Use senses to identify objects through investigation.",
+        "4.1.4. Explain with examples, use other senses if one of the senses is not functioning."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Video/Audio",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kasih Sayang",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 18",
+    "tarikh": "18.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4. HUMAN",
+      "sk": [
+        "4.1. Human senses"
+      ],
+      "sp": [
+        "4.1.2. Identify parts of human body which related to senses.",
+        "4.1.2. Classify the objects according to identified characteristic.",
+        "4.1.3. Use senses to identify objects through investigation.",
+        "4.1.4. Explain with examples, use other senses if one of the senses is not functioning."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify parts of human body which related to senses. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Gambar",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kerajinan",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 19",
+    "tarikh": "08.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "5. ANIMALS",
+      "sk": [
+        "5.1. Parts of animals"
+      ],
+      "sp": [
+        "5.1.1. Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet.",
+        "5.1.2. Relate the parts of animals with their importance.",
+        "5.1.3. Explain through examples the parts of animals.",
+        "5.1.4. Make generalisation that different animals may have same parts of the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Video/Audio",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kerajinan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 20",
+    "tarikh": "15.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "5. ANIMALS",
+      "sk": [
+        "5.1. Parts of animals"
+      ],
+      "sp": [
+        "5.1.1. Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet.",
+        "5.1.2. Relate the parts of animals with their importance.",
+        "5.1.3. Explain through examples the parts of animals.",
+        "5.1.4. Make generalisation that different animals may have same parts of the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Buku Teks",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 21",
+    "tarikh": "22.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "5. ANIMALS",
+      "sk": [
+        "5.1. Parts of animals"
+      ],
+      "sp": [
+        "5.1.1. Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet.",
+        "5.1.2. Relate the parts of animals with their importance.",
+        "5.1.3. Explain through examples the parts of animals.",
+        "5.1.4. Make generalisation that different animals may have same parts of the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "LCD Projektor",
+        "Lembaran Kerja",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Kerajinan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 22",
+    "tarikh": "29.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "5. ANIMALS",
+      "sk": [
+        "5.1. Parts of animals"
+      ],
+      "sp": [
+        "5.1.1. Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet.",
+        "5.1.2. Relate the parts of animals with their importance.",
+        "5.1.3. Explain through examples the parts of animals.",
+        "5.1.4. Make generalisation that different animals may have same parts of the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the parts of animals e.g. beak, scales, fins, fine hair, feathers, horn, feelers, hard skin, shell, wings, head, body, tail and webbed feet. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 23",
+    "tarikh": "06.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "6. PLANTS",
+      "sk": [
+        "6.1. Parts of plants."
+      ],
+      "sp": [
+        "6.1.1 Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root.",
+        "6.1.2. Relate the parts of plants i.e. leaf, flower, stem and root with its importance to the plant.",
+        "6.1.3. Make generalisation that different plants may have same parts."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Kad Perkataan",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Kasih Sayang",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 24",
+    "tarikh": "13.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "6. PLANTS",
+      "sk": [
+        "6.1. Parts of plants."
+      ],
+      "sp": [
+        "6.1.1 Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root.",
+        "6.1.2. Relate the parts of plants i.e. leaf, flower, stem and root with its importance to the plant.",
+        "6.1.3. Make generalisation that different plants may have same parts."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Buku Teks",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Keberanian",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 25",
+    "tarikh": "20.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "6. PLANTS",
+      "sk": [
+        "6.1. Parts of plants."
+      ],
+      "sp": [
+        "6.1.1 Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root.",
+        "6.1.2. Relate the parts of plants i.e. leaf, flower, stem and root with its importance to the plant.",
+        "6.1.3. Make generalisation that different plants may have same parts."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root. dengan betul.",
+        "Pada akhir PdP, murid dapat Compare and contrast parts of plant i.e.: (i) leaf: types of vein; (ii) flower: flowering, non-flowering; (iii) stem: woody, non-woody; and (iv) root: tap root, fibre root. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "LCD Projektor",
+        "Lembaran Kerja",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Hormat-menghormati",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 26",
+    "tarikh": "27.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "7. MAGNET",
+      "sk": [
+        "7.1 Magnet"
+      ],
+      "sp": [
+        "7.1.1. Give examples the usage of magnets in daily life.",
+        "7.1.2. Identify the shapes of magnets e.g. bar, cylinder, horseshoe, U-shaped, button and ring.",
+        "7.1.3. Make generalisation of how magnet reflect on various objects by carrying out activities.",
+        "7.1.4. Conclude that magnet attracts or repels between two poles through investigation.",
+        "7.1.5. Determine the strengths of magnet towards object through investigation"
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Buku Teks",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Kerajinan",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 27",
+    "tarikh": "03.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "7. MAGNET",
+      "sk": [
+        "7.1 Magnet"
+      ],
+      "sp": [
+        "7.1.1. Give examples the usage of magnets in daily life.",
+        "7.1.2. Identify the shapes of magnets e.g. bar, cylinder, horseshoe, U-shaped, button and ring.",
+        "7.1.3. Make generalisation of how magnet reflect on various objects by carrying out activities.",
+        "7.1.4. Conclude that magnet attracts or repels between two poles through investigation.",
+        "7.1.5. Determine the strengths of magnet towards object through investigation"
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Kad Perkataan",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Kebersihan",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 28",
+    "tarikh": "10.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "7. MAGNET",
+      "sk": [
+        "7.1 Magnet"
+      ],
+      "sp": [
+        "7.1.1. Give examples the usage of magnets in daily life.",
+        "7.1.2. Identify the shapes of magnets e.g. bar, cylinder, horseshoe, U-shaped, button and ring.",
+        "7.1.3. Make generalisation of how magnet reflect on various objects by carrying out activities.",
+        "7.1.4. Conclude that magnet attracts or repels between two poles through investigation.",
+        "7.1.5. Determine the strengths of magnet towards object through investigation"
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Lembaran Kerja",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Keberanian",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 29",
+    "tarikh": "17.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "7. MAGNET",
+      "sk": [
+        "7.1 Magnet"
+      ],
+      "sp": [
+        "7.1.1. Give examples the usage of magnets in daily life.",
+        "7.1.2. Identify the shapes of magnets e.g. bar, cylinder, horseshoe, U-shaped, button and ring.",
+        "7.1.3. Make generalisation of how magnet reflect on various objects by carrying out activities.",
+        "7.1.4. Conclude that magnet attracts or repels between two poles through investigation.",
+        "7.1.5. Determine the strengths of magnet towards object through investigation"
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "LCD Projektor",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Hormat-menghormati",
+        "Kasih Sayang",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 30",
+    "tarikh": "24.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "7. MAGNET",
+      "sk": [
+        "7.1 Magnet"
+      ],
+      "sp": [
+        "7.1.1. Give examples the usage of magnets in daily life.",
+        "7.1.2. Identify the shapes of magnets e.g. bar, cylinder, horseshoe, U-shaped, button and ring.",
+        "7.1.3. Make generalisation of how magnet reflect on various objects by carrying out activities.",
+        "7.1.4. Conclude that magnet attracts or repels between two poles through investigation.",
+        "7.1.5. Determine the strengths of magnet towards object through investigation"
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples the usage of magnets in daily life. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "LCD Projektor",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 31",
+    "tarikh": "07.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "8. ABSORPTION",
+      "sk": [
+        "8.1. The ability of materials to absorb water"
+      ],
+      "sp": [
+        "8.1.1. Identify the objects that absorb water and cannot absorb water through investigation.",
+        "8.1.2. Classify objects that absorb water and cannot absorb water.",
+        "8.1.3. Describe the ability of objects to absorb water based on types of materials through investigation.",
+        "8.1.4. State the importance of objects that absorb water and cannot absorb water in daily life.",
+        "8.1.5. Design an object based on the ability to absorb water."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Lembaran Kerja",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Kebersihan",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 32",
+    "tarikh": "14.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "8. ABSORPTION",
+      "sk": [
+        "8.1. The ability of materials to absorb water"
+      ],
+      "sp": [
+        "8.1.1. Identify the objects that absorb water and cannot absorb water through investigation.",
+        "8.1.2. Classify objects that absorb water and cannot absorb water.",
+        "8.1.3. Describe the ability of objects to absorb water based on types of materials through investigation.",
+        "8.1.4. State the importance of objects that absorb water and cannot absorb water in daily life.",
+        "8.1.5. Design an object based on the ability to absorb water."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Buku Teks",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Hormat-menghormati",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 33",
+    "tarikh": "21.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "8. ABSORPTION",
+      "sk": [
+        "8.1. The ability of materials to absorb water"
+      ],
+      "sp": [
+        "8.1.1. Identify the objects that absorb water and cannot absorb water through investigation.",
+        "8.1.2. Classify objects that absorb water and cannot absorb water.",
+        "8.1.3. Describe the ability of objects to absorb water based on types of materials through investigation.",
+        "8.1.4. State the importance of objects that absorb water and cannot absorb water in daily life.",
+        "8.1.5. Design an object based on the ability to absorb water."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Perkataan",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Tolong-menolong",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 34",
+    "tarikh": "28.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "8. ABSORPTION",
+      "sk": [
+        "8.1. The ability of materials to absorb water"
+      ],
+      "sp": [
+        "8.1.1. Identify the objects that absorb water and cannot absorb water through investigation.",
+        "8.1.2. Classify objects that absorb water and cannot absorb water.",
+        "8.1.3. Describe the ability of objects to absorb water based on types of materials through investigation.",
+        "8.1.4. State the importance of objects that absorb water and cannot absorb water in daily life.",
+        "8.1.5. Design an object based on the ability to absorb water."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Video/Audio",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 35",
+    "tarikh": "05.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "8. ABSORPTION",
+      "sk": [
+        "8.1. The ability of materials to absorb water"
+      ],
+      "sp": [
+        "8.1.1. Identify the objects that absorb water and cannot absorb water through investigation.",
+        "8.1.2. Classify objects that absorb water and cannot absorb water.",
+        "8.1.3. Describe the ability of objects to absorb water based on types of materials through investigation.",
+        "8.1.4. State the importance of objects that absorb water and cannot absorb water in daily life.",
+        "8.1.5. Design an object based on the ability to absorb water."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the objects that absorb water and cannot absorb water through investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Lembaran Kerja",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Keberanian",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 36",
+    "tarikh": "12.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "9. EARTH",
+      "sk": [
+        "9.1. Surface of the Earth",
+        "9.2. Soil"
+      ],
+      "sp": [
+        "9.1.1. State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea.",
+        "9.2.1. State the types of soils e.g. garden soil, clay and sand.",
+        "9.2.2. Compare and contrast the contents of different types of soils through investigation."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea. dengan betul.",
+        "Pada akhir PdP, murid dapat State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "LCD Projektor",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Keberanian",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 37",
+    "tarikh": "19.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "EARTH AND SPACE",
+      "kemahiran": "9. EARTH",
+      "sk": [
+        "9.1. Surface of the Earth",
+        "9.2. Soil"
+      ],
+      "sp": [
+        "9.1.1. State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea.",
+        "9.2.1. State the types of soils e.g. garden soil, clay and sand.",
+        "9.2.2. Compare and contrast the contents of different types of soils through investigation."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea. dengan betul.",
+        "Pada akhir PdP, murid dapat State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Hormat-menghormati",
+        "Tolong-menolong",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 38",
+    "tarikh": "26.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "EARTH AND SPACE",
+      "kemahiran": "9. EARTH",
+      "sk": [
+        "9.1. Surface of the Earth",
+        "9.2. Soil"
+      ],
+      "sp": [
+        "9.1.1. State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea.",
+        "9.2.1. State the types of soils e.g. garden soil, clay and sand.",
+        "9.2.2. Compare and contrast the contents of different types of soils through investigation."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea. dengan betul.",
+        "Pada akhir PdP, murid dapat State the surface of the Earth e.g. mountain, beach, hill, valley, river, pond, lake and sea. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Tolong-menolong",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 39",
+    "tarikh": "02.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "EARTH AND SPACE",
+      "kemahiran": "10. BASIC OF BUILDING",
+      "sk": [
+        "10.1. Construction of basic shape blocks"
+      ],
+      "sp": [
+        "10.1.1. Identify the basic shapes i.e. triangle, square, rectangle and circle",
+        "10.1.2. Identify the basic shape blocks i.e. cube, cuboid, pyramid, prism, cone, cylinder and sphere.",
+        "10.1.3. Design an object or structure using basic shape blocks.",
+        "10.1.4. Provide reasoning on the importance of different types of blocks shape."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Video/Audio",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Kerajinan",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 40",
+    "tarikh": "09.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "TECHNOLOGY AND SUSTAINABILITY OF LIFE",
+      "kemahiran": "10. BASIC OF BUILDING",
+      "sk": [
+        "10.1. Construction of basic shape blocks"
+      ],
+      "sp": [
+        "10.1.1. Identify the basic shapes i.e. triangle, square, rectangle and circle",
+        "10.1.2. Identify the basic shape blocks i.e. cube, cuboid, pyramid, prism, cone, cylinder and sphere.",
+        "10.1.3. Design an object or structure using basic shape blocks.",
+        "10.1.4. Provide reasoning on the importance of different types of blocks shape."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Lembaran Kerja",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Kasih Sayang",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 41",
+    "tarikh": "16.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "TECHNOLOGY AND SUSTAINABILITY OF LIFE",
+      "kemahiran": "10. BASIC OF BUILDING",
+      "sk": [
+        "10.1. Construction of basic shape blocks"
+      ],
+      "sp": [
+        "10.1.1. Identify the basic shapes i.e. triangle, square, rectangle and circle",
+        "10.1.2. Identify the basic shape blocks i.e. cube, cuboid, pyramid, prism, cone, cylinder and sphere.",
+        "10.1.3. Design an object or structure using basic shape blocks.",
+        "10.1.4. Provide reasoning on the importance of different types of blocks shape."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Kasih Sayang",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 42",
+    "tarikh": "23.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "TECHNOLOGY AND SUSTAINABILITY OF LIFE",
+      "kemahiran": "10. BASIC OF BUILDING",
+      "sk": [
+        "10.1. Construction of basic shape blocks"
+      ],
+      "sp": [
+        "10.1.1. Identify the basic shapes i.e. triangle, square, rectangle and circle",
+        "10.1.2. Identify the basic shape blocks i.e. cube, cuboid, pyramid, prism, cone, cylinder and sphere.",
+        "10.1.3. Design an object or structure using basic shape blocks.",
+        "10.1.4. Provide reasoning on the importance of different types of blocks shape."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan betul.",
+        "Pada akhir PdP, murid dapat Identify the basic shapes i.e. triangle, square, rectangle and circle dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Video/Audio",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kasih Sayang",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 43",
+    "tarikh": "30.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "TECHNOLOGY AND SUSTAINABILITY OF LIFE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2 Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Lembaran Kerja",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kerajinan",
+        "Kebersihan"
+      ]
+    }
+  }
+]

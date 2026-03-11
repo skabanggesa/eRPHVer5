@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem eRPH Sekolah (Versi Google Sheets)</title>
+        
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --danger: #dc2626;
+            --dark: #1f2937;
+            --light: #f3f4f6;
+        }
+
+        body { 
+            font-family: 'Segoe UI', sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            background: var(--light); 
+            color: #333; 
+        }
+        
+        /* =========================================
+           GAYA SKRIN LOG MASUK
+           ========================================= */
+        #login-screen {
+            display: flex; /* Flex supaya center, JS akan hide nanti */
+            min-height: 100vh;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #e0e7ff 0%, #f3f4f6 100%);
+            padding: 20px;
+        }
+
+        .login-card {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        .login-card h2 {
+            margin-top: 0;
+            color: var(--dark);
+            margin-bottom: 5px;
+        }
+
+        .login-card p {
+            color: #6b7280;
+            margin-bottom: 25px;
+            font-size: 0.95rem;
+        }
+
+        .form-group {
+            text-align: left;
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 600;
+            color: var(--dark);
+            font-size: 0.9rem;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 10px 15px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-size: 1rem;
+            box-sizing: border-box;
+            transition: border-color 0.2s;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 12px;
+            width: 100%;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+            margin-top: 10px;
+        }
+
+        .btn-primary:hover {
+            background: #4338ca;
+        }
+        
+        .btn-primary:disabled {
+            background: #9ca3af;
+            cursor: not-allowed;
+        }
+
+        #error-message {
+            display: none;
+            background: #fee2e2;
+            color: var(--danger);
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 15px;
+            font-size: 0.9rem;
+            border: 1px solid #fecaca;
+        }
+
+        /* =========================================
+           GAYA PAPARAN DASHBOARD (SELEPAS LOGIN)
+           ========================================= */
+        #dashboard-screen {
+            display: none; /* Disembunyikan pada asalnya */
+            min-height: 100vh;
+        }
+        
+        #main-content {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+/* =========================================
+           GAYA GLOBAL (MODEN & PROFESIONAL)
+           ========================================= */
+        
+        /* 1. Mencantikkan Kotak Input (Borang Jana RPH & Edit) */
+        input[type="text"], input[type="date"], input[type="time"], select, textarea {
+            border: 1px solid #cbd5e1 !important;
+            border-radius: 8px !important;
+            padding: 10px 14px !important;
+            transition: all 0.3s ease !important;
+            box-shadow: inset 0 1px 2px rgba(0,0,0,0.03) !important;
+            font-family: inherit;
+            font-size: 14px;
+            background-color: #ffffff;
+        }
+        
+        /* Kesan bila kotak input ditekan (Fokus) */
+        input:focus, select:focus, textarea:focus {
+            outline: none !important;
+            border-color: var(--primary) !important;
+            box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.15) !important;
+            background-color: #fff !important;
+        }
+
+        /* 2. Mencantikkan Jadual (Table) untuk Senarai & Paparan RPH */
+        table {
+            border-collapse: separate !important;
+            border-spacing: 0 !important;
+            width: 100%;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+        
+        /* Kepala Jadual */
+        th {
+            background-color: #4f46e5 !important; /* Warna Indigo/Biru Moden */
+            color: white !important;
+            padding: 14px 16px !important;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+        
+        /* Sel Jadual */
+        td {
+            padding: 14px 16px !important;
+            border-bottom: 1px solid #e2e8f0 !important;
+            background-color: #ffffff;
+            color: #334155;
+            vertical-align: middle;
+        }
+        
+        /* Kesan Belang (Striped) pada baris genap - Senang mata membaca */
+        tr:nth-child(even) td {
+            background-color: #f8fafc; 
+        }
+        
+        /* Kesan Hover bila tetikus lalu atas jadual */
+        tr:hover td {
+            background-color: #f1f5f9 !important; 
+        }
+
+        /* 3. Kesan Animasi Global Pada Semua Butang */
+        button {
+            transition: all 0.2s ease-in-out !important;
+        }
+        button:hover:not(:disabled) {
+            transform: translateY(-2px);
+            filter: brightness(110%);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        button:active:not(:disabled) {
+            transform: translateY(0);
+        }
+
+        /* 4. Mencantikkan Bar Skrol (Scrollbar) Sistem */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8; 
+        }
+    </style>
+</head>
+<body>
+
+    <div id="login-screen" class="screen">
+        <div class="login-card">
+            <div style="text-align: center; margin-bottom: 15px;">
+    <img src="erphv5.png" alt="Logo Rasmi" style="height: 70px; width: auto; margin-bottom: 10px;">
+    <p id="formSubtitle" style="color: #6b7280; margin-top: 5px; font-size: 0.9em;">Sila log masuk ke akaun anda</p>
+</div>
+
+            <div id="error-message"></div>
+
+            <form id="loginForm">
+                <div style="margin-bottom: 15px; text-align: left;">
+                    <label style="display: block; margin-bottom: 5px; color: var(--dark); font-weight: 500;">Emel</label>
+                    <input type="email" id="email" required placeholder="contoh@moe-dl.edu.my" style="width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; box-sizing: border-box;">
+                </div>
+                <div style="margin-bottom: 20px; text-align: left;">
+                    <label style="display: block; margin-bottom: 5px; color: var(--dark); font-weight: 500;">Kata Laluan</label>
+                    <input type="password" id="password" required placeholder="••••••••" style="width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; box-sizing: border-box;">
+                </div>
+                <button type="submit" id="btnLoginAdmin" class="btn-primary">Log Masuk</button>
+                
+                <div style="text-align: center; margin-top: 15px;">
+                    <a href="#" id="btnShowRegister" style="color: var(--primary); text-decoration: none; font-size: 0.9rem; font-weight: 500;">Belum ada akaun? Sila daftar.</a>
+                </div>
+            </form>
+
+            <form id="registerForm" style="display: none;">
+                <div style="margin-bottom: 15px; text-align: left;">
+                    <label style="display: block; margin-bottom: 5px; color: var(--dark); font-weight: 500;">Nama Penuh</label>
+                    <input type="text" id="regNama" required placeholder="Contoh: Ali bin Abu" style="width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; box-sizing: border-box;">
+                </div>
+                <div style="margin-bottom: 15px; text-align: left;">
+                    <label style="display: block; margin-bottom: 5px; color: var(--dark); font-weight: 500;">Emel Rasmi</label>
+                    <input type="email" id="regEmail" required placeholder="contoh@moe-dl.edu.my" style="width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; box-sizing: border-box;">
+                </div>
+                <div style="margin-bottom: 15px; text-align: left;">
+                    <label style="display: block; margin-bottom: 5px; color: var(--dark); font-weight: 500;">No. Kad Pengenalan</label>
+                    <input type="text" id="regIC" required placeholder="Tanpa sengkang (Contoh: 801231015566)" style="width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; box-sizing: border-box;">
+                    <small style="color: #6b7280; font-size: 0.8rem; display: block; margin-top: 4px;">*6 digit terakhir akan dijadikan kata laluan lalai.</small>
+                </div>
+                <div style="margin-bottom: 20px; text-align: left;">
+                    <label style="display: block; margin-bottom: 5px; color: var(--dark); font-weight: 500;">Peranan</label>
+                    <select id="regPeranan" required style="width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; box-sizing: border-box;">
+                        <option value="Guru">Guru</option>
+                        <option value="Penyelia">Penyelia</option>
+                    </select>
+                </div>
+                <button type="submit" id="btnSubmitRegister" class="btn-primary" style="background: #10b981;">Daftar Akaun</button>
+                
+                <div style="text-align: center; margin-top: 15px;">
+                    <a href="#" id="btnShowLogin" style="color: var(--primary); text-decoration: none; font-size: 0.9rem; font-weight: 500;">Sudah ada akaun? Log masuk.</a>
+                </div>
+            </form>
+        </div>
+    </div> <div id="dashboard-screen" class="screen">
+        <div id="main-content">
+            </div>
+    </div>
+
+    <script type="module">
+        import { initRouter } from './assets/js/router.js';
+        import { loginKeSheets, daftarKeSheets } from './assets/js/auth.js';
+
+        // 1. Mulakan Router
+        initRouter();
+
+        // 2. Logik Log Masuk
+        const loginForm = document.getElementById('loginForm');
+        if (loginForm) {
+            loginForm.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const email = document.getElementById('email').value;
+                const pass = document.getElementById('password').value;
+                const btn = document.getElementById('btnLoginAdmin');
+                const errDiv = document.getElementById('error-message');
+                
+                btn.textContent = "Memproses..."; 
+                btn.disabled = true; 
+                errDiv.style.display = 'none';
+
+                const result = await loginKeSheets(email, pass);
+                if (result.success) {
+                    window.location.reload(); 
+                } else {
+                    errDiv.textContent = result.message;
+                    errDiv.style.display = 'block';
+                    btn.textContent = "Log Masuk"; 
+                    btn.disabled = false;
+                }
+            });
+        }
+
+        // 3. Logik Daftar
+        const registerForm = document.getElementById('registerForm');
+        if (registerForm) {
+            registerForm.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const nama = document.getElementById('regNama').value;
+                const email = document.getElementById('regEmail').value;
+                const ic = document.getElementById('regIC').value;
+                const peranan = document.getElementById('regPeranan').value;
+                const btn = document.getElementById('btnSubmitRegister');
+                const errDiv = document.getElementById('error-message');
+                
+                btn.textContent = "Sedang mendaftar...";
+                btn.disabled = true;
+
+                const result = await daftarKeSheets(nama, email, ic, peranan);
+                if (result.success) {
+                    alert(result.message);
+                    registerForm.reset();
+                    document.getElementById('btnShowLogin').click();
+                } else {
+                    errDiv.textContent = result.message;
+                    errDiv.style.display = 'block';
+                }
+                btn.textContent = "Daftar Akaun";
+                btn.disabled = false;
+            });
+        }
+
+        // Tukar Paparan
+        document.getElementById('btnShowRegister').addEventListener('click', (e) => {
+            e.preventDefault();
+            document.getElementById('loginForm').style.display = 'none';
+            document.getElementById('registerForm').style.display = 'block';
+            document.getElementById('formSubtitle').innerText = "Daftar akaun baharu eRPH";
+        });
+
+        document.getElementById('btnShowLogin').addEventListener('click', (e) => {
+            e.preventDefault();
+            document.getElementById('registerForm').style.display = 'none';
+            document.getElementById('loginForm').style.display = 'block';
+            document.getElementById('formSubtitle').innerText = "Sila log masuk ke akaun anda";
+        });
+    </script>
+</body>
+</html>

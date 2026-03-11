@@ -1,0 +1,2597 @@
+[
+  {
+    "minggu": "MINGGU 1",
+    "tarikh": "12.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Video/Audio",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 2",
+    "tarikh": "19.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Lembaran Kerja",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kerajinan",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 3",
+    "tarikh": "26.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Tolong-menolong",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 4",
+    "tarikh": "02.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "LCD Projektor",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Keberanian",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 5",
+    "tarikh": "09.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Video/Audio",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Hormat-menghormati",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 6",
+    "tarikh": "16.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "LCD Projektor",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 7",
+    "tarikh": "23.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Video/Audio",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Keberanian",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 8",
+    "tarikh": "02.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Kad Perkataan",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Hormat-menghormati",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 9",
+    "tarikh": "09.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Buku Teks",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Keberanian",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 10",
+    "tarikh": "16.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Kad Perkataan",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kerajinan",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 11",
+    "tarikh": "30.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "1. SCEINTIFIC SKILLS",
+      "sk": [
+        "1.1 Science Process Skills",
+        "1.2. Manipulative Skills"
+      ],
+      "sp": [
+        "1.1.1 Observe",
+        "1.1.2 Classify",
+        "1.1.3 Measure and use numbers",
+        "1.1.4. Make inference",
+        "1.1.5. Predict",
+        "1.1.6. Communicate",
+        "1.2.1 Use and handle science apparatus and substances correctly.",
+        "1.2.2 Handle specimens correctly and carefully.",
+        "1.2.3 Sketch specimens, apparatus and science substances correctly.",
+        "1.2.4 Clean science apparatus correctly.",
+        "1.2.5 Store science apparatus and substances correctly and safely."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Observe dengan betul.",
+        "Pada akhir PdP, murid dapat Observe dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Video/Audio",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Kebersihan",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 12",
+    "tarikh": "06.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "INQUIRY IN SCIENCE",
+      "kemahiran": "2. SCIENCE ROOM RULES",
+      "sk": [
+        "2.1 Science room rules"
+      ],
+      "sp": [
+        "2.1.1 Adhere to science room rules"
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Adhere to science room rules dengan betul.",
+        "Pada akhir PdP, murid dapat Adhere to science room rules dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Kad Gambar",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kebersihan",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 13",
+    "tarikh": "13.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "LCD Projektor",
+        "Kad Gambar",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kerajinan",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 14",
+    "tarikh": "20.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Video/Audio",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Tolong-menolong",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 15",
+    "tarikh": "27.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Kad Gambar",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Tolong-menolong",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 16",
+    "tarikh": "04.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Video/Audio",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kerajinan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 17",
+    "tarikh": "11.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Gambar",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Tolong-menolong",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 18",
+    "tarikh": "18.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Lembaran Kerja",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Tolong-menolong",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 19",
+    "tarikh": "08.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "LCD Projektor",
+        "Kad Gambar",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kasih Sayang",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 20",
+    "tarikh": "15.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Buku Teks",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Kebersihan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 21",
+    "tarikh": "22.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Lembaran Kerja",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Kebersihan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 22",
+    "tarikh": "29.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Lembaran Kerja",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Keberanian",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 23",
+    "tarikh": "06.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "3. HUMAN",
+      "sk": [
+        "3.1 Teeth",
+        "3.2 Classes of food",
+        "3.3 Digestion"
+      ],
+      "sp": [
+        "3.1.1 Describe the types of teeth and their functions.",
+        "3.1.2 Label the structure of the tooth.",
+        "3.1.3 Compare and contrast sets of milk teeth and permanent teeth.",
+        "3.1.4 Relate dental care with the structure of the tooth.",
+        "3.2.1 Give examples of food for each class of food.",
+        "3.2.2 Make generalisation about the importance of food according to its class for the human body.",
+        "3.2.3 Explain with examples of balanced diet based on the food pyramid.",
+        "3.2.4 Give reasons on the effects of imbalanced food intake.",
+        "3.3.1 Describe the digestion process.",
+        "3.3.2 Arrange in sequence the flow of food during digestion.",
+        "3.3.3 Conclude the digested food that is not required by the body."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan betul.",
+        "Pada akhir PdP, murid dapat Describe the types of teeth and their functions. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Kad Gambar",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 24",
+    "tarikh": "13.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4.0.ANIMALS",
+      "sk": [
+        "4.1 Eating Habits"
+      ],
+      "sp": [
+        "4.1.1 Classify animals according to their eating habits.",
+        "4.1.2 Explain with examples the eating habits of herbivore, carnivore and omnivore.",
+        "4.1.3 Make inference about the animal groupings based on their eating habits.",
+        "4.1.4 Compare and constrast the dentition of herbivore, carnivore and omnivore."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan betul.",
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "LCD Projektor",
+        "Kad Gambar",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Hormat-menghormati",
+        "Keberanian",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 25",
+    "tarikh": "20.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4.0.ANIMALS",
+      "sk": [
+        "4.1 Eating Habits"
+      ],
+      "sp": [
+        "4.1.1 Classify animals according to their eating habits.",
+        "4.1.2 Explain with examples the eating habits of herbivore, carnivore and omnivore.",
+        "4.1.3 Make inference about the animal groupings based on their eating habits.",
+        "4.1.4 Compare and constrast the dentition of herbivore, carnivore and omnivore."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan betul.",
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Think-Pair-Share' bersama pasangan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Video/Audio",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Tolong-menolong",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 26",
+    "tarikh": "27.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4.0.ANIMALS",
+      "sk": [
+        "4.1 Eating Habits"
+      ],
+      "sp": [
+        "4.1.1 Classify animals according to their eating habits.",
+        "4.1.2 Explain with examples the eating habits of herbivore, carnivore and omnivore.",
+        "4.1.3 Make inference about the animal groupings based on their eating habits.",
+        "4.1.4 Compare and constrast the dentition of herbivore, carnivore and omnivore."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan betul.",
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "LCD Projektor",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kebersihan",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 27",
+    "tarikh": "03.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "4.0.ANIMALS",
+      "sk": [
+        "4.1 Eating Habits"
+      ],
+      "sp": [
+        "4.1.1 Classify animals according to their eating habits.",
+        "4.1.2 Explain with examples the eating habits of herbivore, carnivore and omnivore.",
+        "4.1.3 Make inference about the animal groupings based on their eating habits.",
+        "4.1.4 Compare and constrast the dentition of herbivore, carnivore and omnivore."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan betul.",
+        "Pada akhir PdP, murid dapat Classify animals according to their eating habits. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Hormat-menghormati",
+        "Kasih Sayang",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 28",
+    "tarikh": "10.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "5.0. PLANTS",
+      "sk": [
+        "5.1 Plant Reproduction"
+      ],
+      "sp": [
+        "5.1.1 Give examples of plants for each way of reproduction.",
+        "5.1.2 Give reasons on the importance of plant reproduction to living things.",
+        "5.1.3. Make generalisation that a plant can reproduce through various ways by carrying out projects."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples of plants for each way of reproduction. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples of plants for each way of reproduction. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Lembaran Kerja",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kerajinan",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 29",
+    "tarikh": "17.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "5.0. PLANTS",
+      "sk": [
+        "5.1 Plant Reproduction"
+      ],
+      "sp": [
+        "5.1.1 Give examples of plants for each way of reproduction.",
+        "5.1.2 Give reasons on the importance of plant reproduction to living things.",
+        "5.1.3. Make generalisation that a plant can reproduce through various ways by carrying out projects."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples of plants for each way of reproduction. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples of plants for each way of reproduction. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "LCD Projektor",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kebersihan",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 30",
+    "tarikh": "24.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "LIFE SCIENCE",
+      "kemahiran": "5.0. PLANTS",
+      "sk": [
+        "5.1 Plant Reproduction"
+      ],
+      "sp": [
+        "5.1.1 Give examples of plants for each way of reproduction.",
+        "5.1.2 Give reasons on the importance of plant reproduction to living things.",
+        "5.1.3. Make generalisation that a plant can reproduce through various ways by carrying out projects."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Give examples of plants for each way of reproduction. dengan betul.",
+        "Pada akhir PdP, murid dapat Give examples of plants for each way of reproduction. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Perkataan",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 31",
+    "tarikh": "07.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "6.0. MEASUREMENT",
+      "sk": [
+        "6.1 Measurement of area and volume."
+      ],
+      "sp": [
+        "6.1.1 State the units that are used to measure area and volume.",
+        "6.1.2 Measure the area of regular surfaces using 1cm x 1cm square.",
+        "6.1.3 Solve problems to estimate the area of irregular surfaces.",
+        "6.1.4 Measure the volume of hollow boxes using 1cm x 1cm cubes.",
+        "6.1.5 Measure the volume of liquid using correct tools and techniques.",
+        "6.1.6 Solve problems to determine the volume of irregular shaped solids using water displacement method."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan betul.",
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Buku Teks",
+        "Lembaran Kerja"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kerajinan",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 32",
+    "tarikh": "14.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "6.0. MEASUREMENT",
+      "sk": [
+        "6.1 Measurement of area and volume."
+      ],
+      "sp": [
+        "6.1.1 State the units that are used to measure area and volume.",
+        "6.1.2 Measure the area of regular surfaces using 1cm x 1cm square.",
+        "6.1.3 Solve problems to estimate the area of irregular surfaces.",
+        "6.1.4 Measure the volume of hollow boxes using 1cm x 1cm cubes.",
+        "6.1.5 Measure the volume of liquid using correct tools and techniques.",
+        "6.1.6 Solve problems to determine the volume of irregular shaped solids using water displacement method."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan betul.",
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Buku Teks",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kasih Sayang",
+        "Kerajinan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 33",
+    "tarikh": "21.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "6.0. MEASUREMENT",
+      "sk": [
+        "6.1 Measurement of area and volume."
+      ],
+      "sp": [
+        "6.1.1 State the units that are used to measure area and volume.",
+        "6.1.2 Measure the area of regular surfaces using 1cm x 1cm square.",
+        "6.1.3 Solve problems to estimate the area of irregular surfaces.",
+        "6.1.4 Measure the volume of hollow boxes using 1cm x 1cm cubes.",
+        "6.1.5 Measure the volume of liquid using correct tools and techniques.",
+        "6.1.6 Solve problems to determine the volume of irregular shaped solids using water displacement method."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan betul.",
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "LCD Projektor",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Kerajinan",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 34",
+    "tarikh": "28.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "6.0. MEASUREMENT",
+      "sk": [
+        "6.1 Measurement of area and volume."
+      ],
+      "sp": [
+        "6.1.1 State the units that are used to measure area and volume.",
+        "6.1.2 Measure the area of regular surfaces using 1cm x 1cm square.",
+        "6.1.3 Solve problems to estimate the area of irregular surfaces.",
+        "6.1.4 Measure the volume of hollow boxes using 1cm x 1cm cubes.",
+        "6.1.5 Measure the volume of liquid using correct tools and techniques.",
+        "6.1.6 Solve problems to determine the volume of irregular shaped solids using water displacement method."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan betul.",
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Video/Audio",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Kebersihan",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 35",
+    "tarikh": "05.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "6.0. MEASUREMENT",
+      "sk": [
+        "6.1 Measurement of area and volume."
+      ],
+      "sp": [
+        "6.1.1 State the units that are used to measure area and volume.",
+        "6.1.2 Measure the area of regular surfaces using 1cm x 1cm square.",
+        "6.1.3 Solve problems to estimate the area of irregular surfaces.",
+        "6.1.4 Measure the volume of hollow boxes using 1cm x 1cm cubes.",
+        "6.1.5 Measure the volume of liquid using correct tools and techniques.",
+        "6.1.6 Solve problems to determine the volume of irregular shaped solids using water displacement method."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan betul.",
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Buku Teks",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Kebersihan",
+        "Kerajinan",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 36",
+    "tarikh": "12.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "6.0. MEASUREMENT",
+      "sk": [
+        "6.1 Measurement of area and volume."
+      ],
+      "sp": [
+        "6.1.1 State the units that are used to measure area and volume.",
+        "6.1.2 Measure the area of regular surfaces using 1cm x 1cm square.",
+        "6.1.3 Solve problems to estimate the area of irregular surfaces.",
+        "6.1.4 Measure the volume of hollow boxes using 1cm x 1cm cubes.",
+        "6.1.5 Measure the volume of liquid using correct tools and techniques.",
+        "6.1.6 Solve problems to determine the volume of irregular shaped solids using water displacement method."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan betul.",
+        "Pada akhir PdP, murid dapat State the units that are used to measure area and volume. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Perkataan",
+        "Lembaran Kerja",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Kerajinan",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 37",
+    "tarikh": "19.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "7.0. DENSITY",
+      "sk": [
+        "7.1 Objects or materials which are more or less dense than water."
+      ],
+      "sp": [
+        "7.1.1. Make inferences about objects or materials that float or sink by carrying out activities.",
+        "7.1.2 Relate objects or materials that float and objects or materials that sink with density.",
+        "7.1.3 Solve problems to identify methods to make water more dense."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Make inferences about objects or materials that float or sink by carrying out activities. dengan betul.",
+        "Pada akhir PdP, murid dapat Make inferences about objects or materials that float or sink by carrying out activities. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Nyanyian lagu penutup."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja",
+        "Video/Audio",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Keberanian",
+        "Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 38",
+    "tarikh": "26.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "7.0. DENSITY",
+      "sk": [
+        "7.1 Objects or materials which are more or less dense than water."
+      ],
+      "sp": [
+        "7.1.1. Make inferences about objects or materials that float or sink by carrying out activities.",
+        "7.1.2 Relate objects or materials that float and objects or materials that sink with density.",
+        "7.1.3 Solve problems to identify methods to make water more dense."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Make inferences about objects or materials that float or sink by carrying out activities. dengan betul.",
+        "Pada akhir PdP, murid dapat Make inferences about objects or materials that float or sink by carrying out activities. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Sesi soal jawab santai mengenai pengalaman murid."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Murid melengkapkan 'Exit Ticket'."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "LCD Projektor",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Kebersihan",
+        "Keberanian"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 39",
+    "tarikh": "02.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "PHYSICAL SCIENCE",
+      "kemahiran": "7.0. DENSITY",
+      "sk": [
+        "7.1 Objects or materials which are more or less dense than water."
+      ],
+      "sp": [
+        "7.1.1. Make inferences about objects or materials that float or sink by carrying out activities.",
+        "7.1.2 Relate objects or materials that float and objects or materials that sink with density.",
+        "7.1.3 Solve problems to identify methods to make water more dense."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Make inferences about objects or materials that float or sink by carrying out activities. dengan betul.",
+        "Pada akhir PdP, murid dapat Make inferences about objects or materials that float or sink by carrying out activities. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Kad Perkataan",
+        "Kad Gambar"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 40",
+    "tarikh": "09.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "8.0. ACID AND ALKALINE",
+      "sk": [
+        "8.1 Acid and alkaline"
+      ],
+      "sp": [
+        "8.1.1 Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation.",
+        "8.1.2 Make generalisation on acidic, alkaline and neutral substances through taste and touch by testing a few substances.",
+        "8.1.3 Explore other materials to test acidic, alkaline and neutral substances."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menayangkan video pendek berkaitan tajuk."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Simulasi atau lakonan ringkas berdasarkan situasi."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid membina ayat lengkap dalam buku latihan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks",
+        "Kad Gambar",
+        "Kad Perkataan"
+      ],
+      "nilai": [
+        "Keberanian",
+        "Kerajinan",
+        "Tolong-menolong"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 41",
+    "tarikh": "16.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "8.0. ACID AND ALKALINE",
+      "sk": [
+        "8.1 Acid and alkaline"
+      ],
+      "sp": [
+        "8.1.1 Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation.",
+        "8.1.2 Make generalisation on acidic, alkaline and neutral substances through taste and touch by testing a few substances.",
+        "8.1.3 Explore other materials to test acidic, alkaline and neutral substances."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Guru menunjukkan gambar rangsangan."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Kuiz interaktif untuk menilai kefahaman."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "Kad Gambar",
+        "Lembaran Kerja",
+        "Buku Teks"
+      ],
+      "nilai": [
+        "Kerajinan",
+        "Keberanian",
+        "Kebersihan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 42",
+    "tarikh": "23.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "MATERIAL SCIENCE",
+      "kemahiran": "8.0. ACID AND ALKALINE",
+      "sk": [
+        "8.1 Acid and alkaline"
+      ],
+      "sp": [
+        "8.1.1 Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation.",
+        "8.1.2 Make generalisation on acidic, alkaline and neutral substances through taste and touch by testing a few substances.",
+        "8.1.3 Explore other materials to test acidic, alkaline and neutral substances."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation. dengan betul.",
+        "Pada akhir PdP, murid dapat Test acidic, alkaline and neutral substances through changes in colour of litmus paper by carrying out investigation. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' dalam kumpulan."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Latihan pemulihan bagi murid yang memerlukan bimbingan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Guru merumuskan isi pelajaran hari ini."
+        }
+      ],
+      "bbm": [
+        "Video/Audio",
+        "Lembaran Kerja",
+        "LCD Projektor"
+      ],
+      "nilai": [
+        "Tolong-menolong",
+        "Kerajinan",
+        "Kasih Sayang"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 43",
+    "tarikh": "30.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "lang": "BM",
+    "content": {
+      "tajuk": "EARTH AND SPACE",
+      "kemahiran": "9.0. SOLAR SYSTEM",
+      "sk": [
+        "9.0. Solar system"
+      ],
+      "sp": [
+        "9.1.1 List member of the Solar System using various media.",
+        "9.1.2 Make generalisation of the planets’ temperature based on their sequence in the Solar System.",
+        "9.1.3 Describe the planets that revolve around the Sun on their orbits.",
+        "9.1.4 Relate the positions of the planets from the Sun with the time taken for the planets to revolve around the Sun."
+      ],
+      "objektif": [
+        "Pada akhir PdP, murid dapat List member of the Solar System using various media. dengan betul.",
+        "Pada akhir PdP, murid dapat List member of the Solar System using various media. dengan bimbingan guru."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Induksi",
+          "text": "Murid menyanyi lagu tema bersama guru."
+        },
+        {
+          "fase": "Langkah 1",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan betul."
+        },
+        {
+          "fase": "Langkah 2",
+          "text": "Aktiviti 'Round Table': Murid bergilir mencatat idea."
+        },
+        {
+          "fase": "Langkah 3",
+          "text": "Murid menjawab lembaran kerja pengukuhan."
+        },
+        {
+          "fase": "Penutup",
+          "text": "Kuiz spontan untuk menguji ingatan."
+        }
+      ],
+      "bbm": [
+        "LCD Projektor",
+        "Buku Teks",
+        "Video/Audio"
+      ],
+      "nilai": [
+        "Kasih Sayang",
+        "Tolong-menolong",
+        "Kerajinan"
+      ]
+    }
+  }
+]
